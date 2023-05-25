@@ -1,0 +1,6 @@
+/home/tran_long/cmake_test/build/CMakeFiles/rebuild_cache.dir
+/home/tran_long/cmake_test/build/CMakeFiles/edit_cache.dir
+/home/tran_long/cmake_test/build/CMakeFiles/cmake_test.dir
+/home/tran_long/cmake_test/build/lib/CMakeFiles/edit_cache.dir
+/home/tran_long/cmake_test/build/lib/CMakeFiles/rebuild_cache.dir
+/home/tran_long/cmake_test/build/lib/CMakeFiles/mylib.dir

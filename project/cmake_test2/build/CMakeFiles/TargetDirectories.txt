@@ -1,0 +1,3 @@
+/home/tran_long/cmake_test2/build/CMakeFiles/rebuild_cache.dir
+/home/tran_long/cmake_test2/build/CMakeFiles/edit_cache.dir
+/home/tran_long/cmake_test2/build/CMakeFiles/long.dir
